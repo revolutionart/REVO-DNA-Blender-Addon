@@ -1,10 +1,10 @@
 # Tool UI
 
-Open the 3D Viewport sidebar with **N**, then select **REVO DNA**. Use the three buttons on the left to switch tabs.
+Open the 3D Viewport sidebar with **N**, then select **REVO DNA**. Use the four buttons on the left to switch tabs.
 
-![The three REVO DNA tabs](../assets/images/REVO_DNA_UI.png){.doc-screenshot}
+![REVO DNA workflow tabs](../assets/images/REVO_DNA_UI.png){.doc-screenshot}
 
-<p class="doc-caption">The three REVO DNA tabs</p>
+<p class="doc-caption">MetaHuman Tools, Conform and Textures</p>
 
 ## 1. MetaHuman Tools
 
@@ -29,3 +29,7 @@ Transfer textures from the Target to the Source, extend texture borders and save
 ![Textures](../assets/images/tool_UI_TextureTransfer_tools.png){.doc-screenshot .tool-ui-screenshot}
 
 <p class="doc-caption">Textures</p>
+
+## 4. Support
+
+Open the documentation, join the [REVO Discord community](https://discord.gg/EUXecvQ8V), or visit [Revolutionart on ArtStation](https://www.artstation.com/revolutionart).
