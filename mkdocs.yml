@@ -1,0 +1,40 @@
+site_name: REVO DNA
+site_url: https://revolutionart.github.io/REVO-DNA-Blender-Addon/
+repo_url: https://github.com/revolutionart/REVO-DNA-Blender-Addon
+repo_name: revolutionart/REVO-DNA-Blender-Addon
+site_description: MetaHuman Editing & Mesh Conforming
+theme:
+  name: readthedocs
+extra_css:
+  - stylesheets/custom.css
+plugins:
+  - search
+  - glightbox
+nav:
+  - Home: index.md
+  - Video Tutorials: tutorials.md
+  - Getting Started:
+      - Installation and Update: getting-started/installation.md
+      - Prepare Your Character: getting-started/first-character.md
+      - Tool UI: getting-started/tool-ui.md
+  - MetaHuman Tools:
+      - UV Conform: metahuman/uv-conform.md
+      - Edit and LODs: metahuman/edit.md
+      - Sculpt: metahuman/sculpt.md
+      - Animation and Faceboard: metahuman/animation.md
+      - Faceboard Setup: metahuman/faceboard-setup.md
+      - Getting ROM Animations: metahuman/rom-files.md
+      - Validate and Export: metahuman/export.md
+  - Conform:
+      - Markers and Alignment: conform/points.md
+      - Protect and Conform: conform/wrapping.md
+  - Textures:
+      - Texture Transfer: textures.md
+  - Help:
+      - Troubleshooting: help/troubleshooting.md
+      - Requirements: help/requirements.md
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true

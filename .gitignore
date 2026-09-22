@@ -1,0 +1,6 @@
+site/
+.venv/
+__pycache__/
+Product_Resources/
+validation.json
+*.psd
