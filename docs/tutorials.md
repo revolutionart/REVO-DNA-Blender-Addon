@@ -1,12 +1,7 @@
-# Video tutorials
+# Full workflow tutorial
 
-REVO DNA tutorials will be linked here when published.
+Follow the complete REVO DNA workflow, from Blender setup to your custom MetaHuman in Unreal Engine.
 
-| Tutorial | Video |
-| --- | --- |
-| Import, UV Conform and export | Coming soon |
-| Marker placement and mesh conforming | Coming soon |
-| Protection painting, edge loops and neck transition | Coming soon |
-| Sculpting and LODs | Coming soon |
-| Faceboard and ROM clips | Coming soon |
-| Texture transfer | Coming soon |
+[![REVO DNA: full workflow from Blender to Unreal Engine](assets/images/Thumbnail_Generator_REVO_DNA.png){.doc-screenshot}](https://youtu.be/wptz25xv7-c)
+
+**[Watch the full workflow on YouTube](https://youtu.be/wptz25xv7-c)**

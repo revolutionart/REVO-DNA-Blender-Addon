@@ -33,4 +33,4 @@ Keep button names and section order aligned with Blender. Describe current behav
 
 Screenshot placeholders are in `docs/assets/images/`. Each workflow page uses the `doc-screenshot` class to center its image and keep it within the page width. Replace a placeholder with a PNG or WebP and update the image filename in that page. Keep useful alt text and the centered caption.
 
-The navigation and workflow pages link to `docs/tutorials.md`. Replace each Coming soon entry with `[Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)` using the actual published URL. No video URL has been supplied yet; the guide does not send users to an unrelated video.
+The navigation and workflow pages link to `docs/tutorials.md`, which features the [full workflow tutorial](https://youtu.be/wptz25xv7-c). Its linked thumbnail uses the same image as the documentation home page.
