@@ -12,6 +12,8 @@ It brings together mesh conforming, sculpting, LOD updates, facial animation pre
 
 Start with [installation](getting-started/installation.md), then [Prepare Your Character](getting-started/first-character.md) to import your files and choose how to edit them.
 
+Need help? Join the [REVO Discord community](https://discord.gg/EUXecvQ8V). See more of my work on [ArtStation](https://www.artstation.com/revolutionart).
+
 REVO DNA **1.0.0** supports **Blender 4.2–5.2 on Windows x64**, with two download options. See [requirements](help/requirements.md).
 
 ![MetaHuman character result in Unreal Engine](assets/images/MetahumanResult.gif){.doc-screenshot}

@@ -33,6 +33,8 @@ nav:
   - Help:
       - Troubleshooting: help/troubleshooting.md
       - Requirements: help/requirements.md
+      - Discord Community: https://discord.gg/EUXecvQ8V
+      - ArtStation: https://www.artstation.com/revolutionart
 markdown_extensions:
   - attr_list
   - admonition
