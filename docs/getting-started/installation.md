@@ -1,6 +1,6 @@
 # Installation and update
 
-Choose the ZIP for your Blender version: **4.2–5.0** or **5.1–5.2**. Both are for Windows x64 and include the DNA runtime and NumPy. Install only the matching ZIP.
+Choose the ZIP for your Blender version: **4.2–5.0** or **5.1–5.2**. Both are for Windows x64 and include the DNA runtime. NumPy comes with Blender. Install only the matching ZIP.
 
 1. Open Blender Preferences.
 2. Open the Extensions menu and choose **Install from Disk**.
@@ -9,6 +9,8 @@ Choose the ZIP for your Blender version: **4.2–5.0** or **5.1–5.2**. Both ar
 5. Open a 3D Viewport, press **N**, and select **REVO DNA**.
 
 For an update, save your work, install the new ZIP, then restart Blender. Restarting also replaces the native DNA runtime loaded by the previous version.
+
+Updating from 1.0.0? If you see NumPy errors, see [NumPy errors after updating to 1.0.1](../help/numpy-fix.md).
 
 The docs are a separate website. Install the addon ZIP, not the documentation folder.
 

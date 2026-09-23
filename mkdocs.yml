@@ -33,6 +33,7 @@ nav:
   - Help:
       - Troubleshooting: help/troubleshooting.md
       - Requirements: help/requirements.md
+      - NumPy Errors (1.0.1 Update): help/numpy-fix.md
       - Discord Community: https://discord.gg/EUXecvQ8V
       - ArtStation: https://www.artstation.com/revolutionart
 markdown_extensions:

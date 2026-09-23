@@ -3,6 +3,7 @@
 | Problem | Check |
 | --- | --- |
 | Runtime conflict after updating | Save your work and restart Blender to load the updated runtime. |
+| NumPy errors, or glTF import fails with "DLL load failed" | See [NumPy errors after updating to 1.0.1](numpy-fix.md). |
 | Faceboard does not move the face | Check Character, then click **Edit Board** again. |
 | Faceboard layout missing | Select faceboard.json from your Epic MetaHuman for Maya installation. |
 | No ROM clips listed | Use exported FBX files, not Unreal .uasset files. |

@@ -14,7 +14,7 @@ Start with [installation](getting-started/installation.md), then [Prepare Your C
 
 Need help? Join the [REVO Discord community](https://discord.gg/EUXecvQ8V). See more of my work on [ArtStation](https://www.artstation.com/revolutionart).
 
-REVO DNA **1.0.0** supports **Blender 4.2–5.2 on Windows x64**, with two download options. See [requirements](help/requirements.md).
+REVO DNA **1.0.1** supports **Blender 4.2–5.2 on Windows x64**, with two download options. See [requirements](help/requirements.md).
 
 ![MetaHuman character result in Unreal Engine](assets/images/MetahumanResult.gif){.doc-screenshot}
 
