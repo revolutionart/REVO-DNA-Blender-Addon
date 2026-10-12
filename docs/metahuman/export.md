@@ -19,8 +19,15 @@
 
 Keep the original DNA and the `<file name>_revo_mh` folder next to your .blend; export reads the original DNA copy stored there. Head and body export as separate DNA files. A combined DNA is for inspection only.
 
-**In MetaHuman Creator, import your DNA with Replace, not Mesh Fit.** Replace uses the DNA exactly as exported. Mesh Fit fits MetaHuman Creator's own body to your mesh instead, so shapes far from a standard MetaHuman come out slightly different, and clothing made in Blender can clip through at the crotch and shoulders.
-
 ROM clips are not included in DNA export. Textures must be saved separately from the [Textures tab](../textures.md).
 
 If export reports a problem, open **REVO DNA Export Report** in Blender's Text Editor.
+
+## Replace or Mesh Fit
+
+MetaHuman Creator offers two ways to bring in your DNA. **Use Replace.**
+
+- **Replace** uses your DNA as it is: the exact vertices and skeleton REVO DNA exported. What you see in Blender is what you get in Unreal.
+- **Mesh Fit** treats your DNA only as a shape to aim for. MetaHuman Creator reshapes its own body to look like your mesh, as far as its body model allows, then fits its skeleton to that new body. The result is close, but it isn't your mesh. It differs most where your character is furthest from a standard MetaHuman, such as a much larger chest or hips.
+
+Anything you made against your exact shape in Blender only lines up with that exact shape. With Mesh Fit, clothing bound in the Clothing tab can clip through at the crotch and shoulders even though it fits in Blender, and fixes you made at the neck seam can come back.

@@ -35,7 +35,7 @@ Dress your MetaHuman in Blender and send the clothes to Unreal, with a neck seam
 ### After updating
 
 - **Export your characters' DNA again** to pick up the new normals and the closed neck seam. You don't need to bake again.
-- **Use Replace in MetaHuman Creator.** When you import your DNA, choose **Replace**, not **Mesh Fit**. Mesh Fit fits MetaHuman Creator's own body to your mesh, so clothing made in Blender can clip through.
+- **Use Replace in MetaHuman Creator.** When you import your DNA, choose **Replace**, not **Mesh Fit**. Replace uses your DNA exactly as exported. Mesh Fit only aims for your shape: MetaHuman Creator reshapes its own body to look like your mesh and refits the skeleton to it, so the result is close but not exact, and clothing made in Blender can clip through.
 
 ## 1.0.1 (23 September 2026)
 

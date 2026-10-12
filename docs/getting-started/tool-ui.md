@@ -26,6 +26,10 @@ Fit a head or body to a custom sculpt or scan using markers. Protect areas, prev
 
 Bind garments to the conformed character's skeleton, group them, and export each group as its own FBX for Unreal. See [Clothing](../clothing.md).
 
+![Clothing](../assets/images/tool_UI_ClothingTools.png){.doc-screenshot .tool-ui-screenshot}
+
+<p class="doc-caption">Clothing Tool</p>
+
 ## 4. Textures
 
 Transfer textures from the Target to the Source, extend texture borders and save the images.

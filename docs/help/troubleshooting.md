@@ -12,7 +12,7 @@
 | UV Conform says faces would flip or collapse | The Target's own shape is damaged in more places than can be rebuilt. Fix the selected faces on the Target, or use a copy from before welding or ZBrush, then conform again. |
 | Clothing export says "Bind to Body first" | Select the garments it names and click **Bind to Body**. |
 | Clothing export says "Enable these in the Outliner first" | Turn the named objects, or the collections holding them, back on in the Outliner. |
-| Clothing clips in Unreal but not in Blender | Import the character's DNA in MetaHuman Creator with **Replace**, not **Mesh Fit**. Mesh Fit changes the body slightly. |
+| Clothing clips in Unreal but not in Blender | Import the character's DNA in MetaHuman Creator with **Replace**, not **Mesh Fit**. Mesh Fit reshapes MetaHuman Creator's own body to resemble yours, so it doesn't match the body the clothes were bound to. |
 | Creased ears, lips or eyelids | Check matching markers and protection. Try fewer Detail Iterations and compare from several angles. |
 | Markers are invisible | Enable **Show Markers**. |
 | Markers will not import | Set Source and Target; their topology must match the saved marker set. |

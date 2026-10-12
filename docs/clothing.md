@@ -44,7 +44,7 @@ Choose a **Folder** and a **File Name** pattern. `{character}` is the character 
 
 **Export Checked** writes the ticked groups; **Export All** writes every group. Each FBX contains that group's meshes and the MetaHuman body skeleton, in centimetres and with Unreal's joint orientation, ready to import onto the MetaHuman body skeleton. Your scene is not changed by exporting.
 
-The clothing only lines up in Unreal if the character there is your exported DNA. In MetaHuman Creator, import the DNA with **Replace**, not **Mesh Fit**.
+The clothing only lines up in Unreal if the character there is exactly your exported DNA, so import it into MetaHuman Creator with **Replace**, not **Mesh Fit**. Mesh Fit only aims for your shape, so the body in Unreal differs slightly from the one the clothes were bound to. See [Replace or Mesh Fit](metahuman/export.md#replace-or-mesh-fit).
 
 ## Body masks
 
