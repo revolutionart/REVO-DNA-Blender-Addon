@@ -1,6 +1,6 @@
 # REVO DNA documentation
 
-Artist documentation for REVO DNA 1.0.0.
+Artist documentation for REVO DNA 1.1.0.
 
 ## Preview
 

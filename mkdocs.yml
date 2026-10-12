@@ -28,11 +28,14 @@ nav:
   - Conform:
       - Markers and Alignment: conform/points.md
       - Protect and Conform: conform/wrapping.md
+  - Clothing:
+      - Rig and Export Clothing: clothing.md
   - Textures:
       - Texture Transfer: textures.md
   - Help:
       - Troubleshooting: help/troubleshooting.md
       - Requirements: help/requirements.md
+      - Release Notes: help/changelog.md
       - NumPy Errors (1.0.1 Update): help/numpy-fix.md
       - Discord Community: https://discord.gg/EUXecvQ8V
       - ArtStation: https://www.artstation.com/revolutionart

@@ -38,6 +38,8 @@ You can combine these methods. **Clear** removes painted and loop protection; tu
 
 <p class="doc-caption">Paint, erase and smooth the protection mask</p>
 
+**Protected Areas Follow** lets protected areas keep their shape while moving with the fitted body around them. A protected head then rides on the new neck and shoulders instead of staying behind and stretching the neck. It moves without turning, and protected feet move with the legs too. Leave it off to keep protected areas exactly where they are.
+
 ## Conform and keep the result
 
 Keep **Preserve Mouth / Interior** enabled for heads with a mouth cavity. **Fit Mesh Borders** fits open edges to the Target; it does not close holes.

@@ -1,6 +1,6 @@
 # Tool UI
 
-Open the 3D Viewport sidebar with **N**, then select **REVO DNA**. Use the four buttons on the left to switch tabs.
+Open the 3D Viewport sidebar with **N**, then select **REVO DNA**. Use the five buttons on the left to switch tabs.
 
 ![REVO DNA workflow tabs](../assets/images/REVO_DNA_UI.png){.doc-screenshot}
 
@@ -22,7 +22,11 @@ Fit a head or body to a custom sculpt or scan using markers. Protect areas, prev
 
 <p class="doc-caption">Conform</p>
 
-## 3. Textures
+## 3. Clothing
+
+Bind garments to the conformed character's skeleton, group them, and export each group as its own FBX for Unreal. See [Clothing](../clothing.md).
+
+## 4. Textures
 
 Transfer textures from the Target to the Source, extend texture borders and save the images.
 
@@ -30,6 +34,6 @@ Transfer textures from the Target to the Source, extend texture borders and save
 
 <p class="doc-caption">Textures</p>
 
-## 4. Support
+## 5. Support
 
 Open the documentation, join the [REVO Discord community](https://discord.gg/EUXecvQ8V), or visit [Revolutionart on ArtStation](https://www.artstation.com/revolutionart).

@@ -16,6 +16,8 @@ Use Conform for heads or bodies with different topology. **Already using compati
 
 <p class="doc-caption">Rotate both views together with Sync Views</p>
 
+Conform keeps the Target's orientation and size. It moves the Target onto the Source by the offset most markers agree on. Markers on differently posed hands or arms don't pull it out of place. Stand both meshes upright and facing the same way. If they are not, use **Align Target to Source** first.
+
 If the Target needs repair, use **Scan Preparation > Repair Scan Copy** before placing markers, then select the repaired copy as Target.
 
 ![Inspect or repair the Target before placing markers](../assets/images/tools-ui-conformtools-scanpreparation.png){.doc-screenshot .tool-ui-screenshot}

@@ -28,6 +28,7 @@ After manual sculpting, use **Update LOD 1-7** to check them before baking. Expo
 ## Alignment and display
 
 - **Align Head to Body / Match Chest Loop:** align the attachment and adjust the neck boundary.
+- **Match Seam Normals:** shade the neck seam as if head and body were one mesh, so no line shows where they meet. It runs by itself after Unweld, Align Head to Body, Match Chest Loop and Conform; click it after editing the seam by hand.
 
 ![Align Head to Body at the chest attachment](../assets/images/metahuman_fix_chest_alignheadtochest.gif){.doc-screenshot}
 

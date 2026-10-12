@@ -1,6 +1,6 @@
 # Requirements
 
-**REVO DNA 1.0.1 supports Blender 4.2–5.2 on Windows x64.** An AVX-capable processor is required.
+**REVO DNA 1.1.0 supports Blender 4.2–5.2 on Windows x64.** An AVX-capable processor is required.
 
 Choose the ZIP that matches your Blender version:
 
@@ -22,6 +22,6 @@ Tested on 4.2.23, 5.0.0, 5.1.2 and 5.2.1. Blender 5.3+, macOS and Linux are not 
 
 The DNA runtime is included; NumPy comes with Blender. Character DNA, Epic's Faceboard layout and ROM FBX files are not.
 
-Keep original DNA, generated sidecars and saved textures with your project.
+REVO DNA keeps a copy of each imported DNA in the `<file name>_revo_mh` folder next to your .blend. Keep that folder, the original DNA and your saved textures with your project.
 
 

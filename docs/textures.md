@@ -1,6 +1,6 @@
 # Texture Transfer
 
-**Textures is the third tab**, separate from MetaHuman Tools and Conform. Open it using the bottom button on the vertical sidebar. It has its own texture transfer, border extension and image saving tools. Source and Target selections are shared with Conform.
+**Textures is the fourth tab**, separate from MetaHuman Tools and Conform. Open it using the fourth button on the vertical sidebar. It has its own texture transfer, border extension and image saving tools. Source and Target selections are shared with Conform.
 
 The detailed Target supplies the texture. The Source receives the baked image and needs a usable UV map.
 

@@ -17,7 +17,9 @@
 
 <p class="doc-caption">Bake edits, then export MetaHuman DNA</p>
 
-Keep the original DNA and REVO DNA sidecars. Head and body export as separate DNA files. A combined DNA is for inspection only.
+Keep the original DNA and the `<file name>_revo_mh` folder next to your .blend; export reads the original DNA copy stored there. Head and body export as separate DNA files. A combined DNA is for inspection only.
+
+**In MetaHuman Creator, import your DNA with Replace, not Mesh Fit.** Replace uses the DNA exactly as exported. Mesh Fit fits MetaHuman Creator's own body to your mesh instead, so shapes far from a standard MetaHuman come out slightly different, and clothing made in Blender can clip through at the crotch and shoulders.
 
 ROM clips are not included in DNA export. Textures must be saved separately from the [Textures tab](../textures.md).
 
